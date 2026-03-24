@@ -11,7 +11,7 @@ PACKAGES=(
   # network
   iproute2 traceroute dnsutils iputils-ping nmap
   # shell & navigation
-  autojump
+  zsh autojump
   # utilities
   xclip lsof unzip manpages-dev
   # monitoring
